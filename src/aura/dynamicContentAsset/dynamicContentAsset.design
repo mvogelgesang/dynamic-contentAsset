@@ -1,0 +1,3 @@
+<design:component label="Dynamic Content Asset">
+  <design:attribute name="name" default="" description="The developer name of the image asset" />
+</design:component>
