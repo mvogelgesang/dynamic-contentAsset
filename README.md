@@ -1,4 +1,4 @@
-# dynamic-contentAsset
+# dynamicContentAsset
 
 An example component that dynamically renders a Salesforce Lightning $ContentAsset given the developer name of the file.
 
